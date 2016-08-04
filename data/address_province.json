@@ -1,0 +1,172 @@
+[
+  {
+    "ownId": "1",
+    "name": "北京",
+    "superId": 0
+  },
+  {
+    "ownId": "2",
+    "name": "上海",
+    "superId": 0
+  },
+  {
+    "ownId": "3",
+    "name": "天津",
+    "superId": 0
+  },
+  {
+    "ownId": "4",
+    "name": "重庆",
+    "superId": 0
+  },
+  {
+    "ownId": "5",
+    "name": "河北",
+    "superId": 0
+  },
+  {
+    "ownId": "6",
+    "name": "山西",
+    "superId": 0
+  },
+  {
+    "ownId": "7",
+    "name": "河南",
+    "superId": 0
+  },
+  {
+    "ownId": "8",
+    "name": "辽宁",
+    "superId": 0
+  },
+  {
+    "ownId": "9",
+    "name": "吉林",
+    "superId": 0
+  },
+  {
+    "ownId": "10",
+    "name": "黑龙江",
+    "superId": 0
+  },
+  {
+    "ownId": "11",
+    "name": "内蒙古",
+    "superId": 0
+  },
+  {
+    "ownId": "12",
+    "name": "江苏",
+    "superId": 0
+  },
+  {
+    "ownId": "13",
+    "name": "山东",
+    "superId": 0
+  },
+  {
+    "ownId": "14",
+    "name": "安徽",
+    "superId": 0
+  },
+  {
+    "ownId": "15",
+    "name": "浙江",
+    "superId": 0
+  },
+  {
+    "ownId": "16",
+    "name": "福建",
+    "superId": 0
+  },
+  {
+    "ownId": "17",
+    "name": "湖北",
+    "superId": 0
+  },
+  {
+    "ownId": "18",
+    "name": "湖南",
+    "superId": 0
+  },
+  {
+    "ownId": "19",
+    "name": "广东",
+    "superId": 0
+  },
+  {
+    "ownId": "20",
+    "name": "广西",
+    "superId": 0
+  },
+  {
+    "ownId": "21",
+    "name": "江西",
+    "superId": 0
+  },
+  {
+    "ownId": "22",
+    "name": "四川",
+    "superId": 0
+  },
+  {
+    "ownId": "23",
+    "name": "海南",
+    "superId": 0
+  },
+  {
+    "ownId": "24",
+    "name": "贵州",
+    "superId": 0
+  },
+  {
+    "ownId": "25",
+    "name": "云南",
+    "superId": 0
+  },
+  {
+    "ownId": "26",
+    "name": "西藏",
+    "superId": 0
+  },
+  {
+    "ownId": "27",
+    "name": "陕西",
+    "superId": 0
+  },
+  {
+    "ownId": "28",
+    "name": "甘肃",
+    "superId": 0
+  },
+  {
+    "ownId": "29",
+    "name": "青海",
+    "superId": 0
+  },
+  {
+    "ownId": "30",
+    "name": "宁夏",
+    "superId": 0
+  },
+  {
+    "ownId": "31",
+    "name": "新疆",
+    "superId": 0
+  },
+  {
+    "ownId": "32",
+    "name": "台湾",
+    "superId": 0
+  },
+  {
+    "ownId": "42",
+    "name": "香港",
+    "superId": 0
+  },
+  {
+    "ownId": "43",
+    "name": "澳门",
+    "superId": 0
+  }
+]

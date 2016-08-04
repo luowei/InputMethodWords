@@ -1,0 +1,1832 @@
+[
+  {
+    "ownId": "60",
+    "name": "北京",
+    "superId": "1"
+  },
+  {
+    "ownId": "61",
+    "name": "上海",
+    "superId": "2"
+  },
+  {
+    "ownId": "62",
+    "name": "天津",
+    "superId": "3"
+  },
+  {
+    "ownId": "63",
+    "name": "重庆",
+    "superId": "4"
+  },
+  {
+    "ownId": "142",
+    "name": "石家庄市",
+    "superId": "5"
+  },
+  {
+    "ownId": "148",
+    "name": "邯郸市",
+    "superId": "5"
+  },
+  {
+    "ownId": "164",
+    "name": "邢台市",
+    "superId": "5"
+  },
+  {
+    "ownId": "199",
+    "name": "保定市",
+    "superId": "5"
+  },
+  {
+    "ownId": "224",
+    "name": "张家口市",
+    "superId": "5"
+  },
+  {
+    "ownId": "239",
+    "name": "承德市",
+    "superId": "5"
+  },
+  {
+    "ownId": "248",
+    "name": "秦皇岛市",
+    "superId": "5"
+  },
+  {
+    "ownId": "258",
+    "name": "唐山市",
+    "superId": "5"
+  },
+  {
+    "ownId": "264",
+    "name": "沧州市",
+    "superId": "5"
+  },
+  {
+    "ownId": "274",
+    "name": "廊坊市",
+    "superId": "5"
+  },
+  {
+    "ownId": "275",
+    "name": "衡水市",
+    "superId": "5"
+  },
+  {
+    "ownId": "303",
+    "name": "太原市",
+    "superId": "6"
+  },
+  {
+    "ownId": "309",
+    "name": "大同市",
+    "superId": "6"
+  },
+  {
+    "ownId": "318",
+    "name": "阳泉市",
+    "superId": "6"
+  },
+  {
+    "ownId": "325",
+    "name": "晋城市",
+    "superId": "6"
+  },
+  {
+    "ownId": "330",
+    "name": "朔州市",
+    "superId": "6"
+  },
+  {
+    "ownId": "336",
+    "name": "晋中市",
+    "superId": "6"
+  },
+  {
+    "ownId": "350",
+    "name": "忻州市",
+    "superId": "6"
+  },
+  {
+    "ownId": "368",
+    "name": "吕梁市",
+    "superId": "6"
+  },
+  {
+    "ownId": "379",
+    "name": "临汾市",
+    "superId": "6"
+  },
+  {
+    "ownId": "398",
+    "name": "运城市",
+    "superId": "6"
+  },
+  {
+    "ownId": "412",
+    "name": "郑州市",
+    "superId": "7"
+  },
+  {
+    "ownId": "420",
+    "name": "开封市",
+    "superId": "7"
+  },
+  {
+    "ownId": "427",
+    "name": "洛阳市",
+    "superId": "7"
+  },
+  {
+    "ownId": "438",
+    "name": "平顶山市",
+    "superId": "7"
+  },
+  {
+    "ownId": "446",
+    "name": "焦作市",
+    "superId": "7"
+  },
+  {
+    "ownId": "454",
+    "name": "鹤壁市",
+    "superId": "7"
+  },
+  {
+    "ownId": "458",
+    "name": "新乡市",
+    "superId": "7"
+  },
+  {
+    "ownId": "468",
+    "name": "安阳市",
+    "superId": "7"
+  },
+  {
+    "ownId": "475",
+    "name": "濮阳市",
+    "superId": "7"
+  },
+  {
+    "ownId": "482",
+    "name": "许昌市",
+    "superId": "7"
+  },
+  {
+    "ownId": "489",
+    "name": "漯河市",
+    "superId": "7"
+  },
+  {
+    "ownId": "495",
+    "name": "三门峡市",
+    "superId": "7"
+  },
+  {
+    "ownId": "502",
+    "name": "南阳市",
+    "superId": "7"
+  },
+  {
+    "ownId": "517",
+    "name": "商丘市",
+    "superId": "7"
+  },
+  {
+    "ownId": "527",
+    "name": "周口市",
+    "superId": "7"
+  },
+  {
+    "ownId": "538",
+    "name": "驻马店市",
+    "superId": "7"
+  },
+  {
+    "ownId": "549",
+    "name": "信阳市",
+    "superId": "7"
+  },
+  {
+    "ownId": "560",
+    "name": "沈阳市",
+    "superId": "8"
+  },
+  {
+    "ownId": "573",
+    "name": "大连市",
+    "superId": "8"
+  },
+  {
+    "ownId": "579",
+    "name": "鞍山市",
+    "superId": "8"
+  },
+  {
+    "ownId": "584",
+    "name": "抚顺市",
+    "superId": "8"
+  },
+  {
+    "ownId": "589",
+    "name": "本溪市",
+    "superId": "8"
+  },
+  {
+    "ownId": "593",
+    "name": "丹东市",
+    "superId": "8"
+  },
+  {
+    "ownId": "598",
+    "name": "锦州市",
+    "superId": "8"
+  },
+  {
+    "ownId": "604",
+    "name": "葫芦岛市",
+    "superId": "8"
+  },
+  {
+    "ownId": "609",
+    "name": "营口市",
+    "superId": "8"
+  },
+  {
+    "ownId": "613",
+    "name": "盘锦市",
+    "superId": "8"
+  },
+  {
+    "ownId": "617",
+    "name": "阜新市",
+    "superId": "8"
+  },
+  {
+    "ownId": "621",
+    "name": "辽阳市",
+    "superId": "8"
+  },
+  {
+    "ownId": "632",
+    "name": "朝阳市",
+    "superId": "8"
+  },
+  {
+    "ownId": "639",
+    "name": "长春市",
+    "superId": "9"
+  },
+  {
+    "ownId": "644",
+    "name": "吉林市",
+    "superId": "9"
+  },
+  {
+    "ownId": "651",
+    "name": "四平市",
+    "superId": "9"
+  },
+  {
+    "ownId": "657",
+    "name": "通化市",
+    "superId": "9"
+  },
+  {
+    "ownId": "664",
+    "name": "白山市",
+    "superId": "9"
+  },
+  {
+    "ownId": "674",
+    "name": "松原市",
+    "superId": "9"
+  },
+  {
+    "ownId": "681",
+    "name": "白城市",
+    "superId": "9"
+  },
+  {
+    "ownId": "687",
+    "name": "延边州",
+    "superId": "9"
+  },
+  {
+    "ownId": "698",
+    "name": "哈尔滨市",
+    "superId": "10"
+  },
+  {
+    "ownId": "712",
+    "name": "齐齐哈尔市",
+    "superId": "10"
+  },
+  {
+    "ownId": "727",
+    "name": "鹤岗市",
+    "superId": "10"
+  },
+  {
+    "ownId": "731",
+    "name": "双鸭山市",
+    "superId": "10"
+  },
+  {
+    "ownId": "737",
+    "name": "鸡西市",
+    "superId": "10"
+  },
+  {
+    "ownId": "742",
+    "name": "大庆市",
+    "superId": "10"
+  },
+  {
+    "ownId": "753",
+    "name": "伊春市",
+    "superId": "10"
+  },
+  {
+    "ownId": "757",
+    "name": "牡丹江市",
+    "superId": "10"
+  },
+  {
+    "ownId": "765",
+    "name": "佳木斯市",
+    "superId": "10"
+  },
+  {
+    "ownId": "773",
+    "name": "七台河市",
+    "superId": "10"
+  },
+  {
+    "ownId": "776",
+    "name": "黑河市",
+    "superId": "10"
+  },
+  {
+    "ownId": "782",
+    "name": "绥化市",
+    "superId": "10"
+  },
+  {
+    "ownId": "793",
+    "name": "大兴安岭地区",
+    "superId": "10"
+  },
+  {
+    "ownId": "799",
+    "name": "呼和浩特市",
+    "superId": "11"
+  },
+  {
+    "ownId": "805",
+    "name": "包头市",
+    "superId": "11"
+  },
+  {
+    "ownId": "810",
+    "name": "乌海市",
+    "superId": "11"
+  },
+  {
+    "ownId": "812",
+    "name": "赤峰市",
+    "superId": "11"
+  },
+  {
+    "ownId": "823",
+    "name": "乌兰察布市",
+    "superId": "11"
+  },
+  {
+    "ownId": "835",
+    "name": "锡林郭勒盟",
+    "superId": "11"
+  },
+  {
+    "ownId": "848",
+    "name": "呼伦贝尔市",
+    "superId": "11"
+  },
+  {
+    "ownId": "870",
+    "name": "鄂尔多斯市",
+    "superId": "11"
+  },
+  {
+    "ownId": "880",
+    "name": "巴彦淖尔市",
+    "superId": "11"
+  },
+  {
+    "ownId": "891",
+    "name": "阿拉善盟",
+    "superId": "11"
+  },
+  {
+    "ownId": "895",
+    "name": "兴安盟",
+    "superId": "11"
+  },
+  {
+    "ownId": "902",
+    "name": "通辽市",
+    "superId": "11"
+  },
+  {
+    "ownId": "904",
+    "name": "南京市",
+    "superId": "12"
+  },
+  {
+    "ownId": "911",
+    "name": "徐州市",
+    "superId": "12"
+  },
+  {
+    "ownId": "919",
+    "name": "连云港市",
+    "superId": "12"
+  },
+  {
+    "ownId": "925",
+    "name": "淮安市",
+    "superId": "12"
+  },
+  {
+    "ownId": "933",
+    "name": "宿迁市",
+    "superId": "12"
+  },
+  {
+    "ownId": "939",
+    "name": "盐城市",
+    "superId": "12"
+  },
+  {
+    "ownId": "951",
+    "name": "扬州市",
+    "superId": "12"
+  },
+  {
+    "ownId": "959",
+    "name": "泰州市",
+    "superId": "12"
+  },
+  {
+    "ownId": "965",
+    "name": "南通市",
+    "superId": "12"
+  },
+  {
+    "ownId": "972",
+    "name": "镇江市",
+    "superId": "12"
+  },
+  {
+    "ownId": "978",
+    "name": "常州市",
+    "superId": "12"
+  },
+  {
+    "ownId": "984",
+    "name": "无锡市",
+    "superId": "12"
+  },
+  {
+    "ownId": "988",
+    "name": "苏州市",
+    "superId": "12"
+  },
+  {
+    "ownId": "1000",
+    "name": "济南市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1007",
+    "name": "青岛市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1016",
+    "name": "淄博市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1022",
+    "name": "枣庄市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1025",
+    "name": "东营市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1032",
+    "name": "潍坊市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1042",
+    "name": "烟台市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1053",
+    "name": "威海市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1058",
+    "name": "莱芜市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1060",
+    "name": "德州市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1072",
+    "name": "临沂市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1081",
+    "name": "聊城市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1090",
+    "name": "滨州市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1099",
+    "name": "菏泽市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1108",
+    "name": "日照市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1112",
+    "name": "泰安市",
+    "superId": "13"
+  },
+  {
+    "ownId": "1114",
+    "name": "铜陵市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1116",
+    "name": "合肥市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1121",
+    "name": "淮南市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1124",
+    "name": "淮北市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1127",
+    "name": "芜湖市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1132",
+    "name": "蚌埠市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1137",
+    "name": "马鞍山市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1140",
+    "name": "安庆市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1151",
+    "name": "黄山市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1158",
+    "name": "宁波市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1159",
+    "name": "滁州市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1167",
+    "name": "阜阳市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1174",
+    "name": "亳州市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1180",
+    "name": "宿州市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1201",
+    "name": "池州市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1206",
+    "name": "六安市",
+    "superId": "14"
+  },
+  {
+    "ownId": "1213",
+    "name": "杭州市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1233",
+    "name": "温州市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1243",
+    "name": "嘉兴市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1250",
+    "name": "湖州市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1255",
+    "name": "绍兴市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1262",
+    "name": "金华市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1273",
+    "name": "衢州市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1280",
+    "name": "丽水市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1290",
+    "name": "台州市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1298",
+    "name": "舟山市",
+    "superId": "15"
+  },
+  {
+    "ownId": "1303",
+    "name": "福州市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1315",
+    "name": "厦门市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1317",
+    "name": "三明市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1329",
+    "name": "莆田市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1332",
+    "name": "泉州市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1341",
+    "name": "漳州市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1352",
+    "name": "南平市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1362",
+    "name": "龙岩市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1370",
+    "name": "宁德市",
+    "superId": "16"
+  },
+  {
+    "ownId": "1381",
+    "name": "武汉市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1387",
+    "name": "黄石市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1396",
+    "name": "襄阳市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1405",
+    "name": "十堰市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1413",
+    "name": "荆州市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1421",
+    "name": "宜昌市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1432",
+    "name": "孝感市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1441",
+    "name": "黄冈市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1458",
+    "name": "咸宁市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1466",
+    "name": "恩施州",
+    "superId": "17"
+  },
+  {
+    "ownId": "1475",
+    "name": "鄂州市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1477",
+    "name": "荆门市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1479",
+    "name": "随州市",
+    "superId": "17"
+  },
+  {
+    "ownId": "1482",
+    "name": "长沙市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1488",
+    "name": "株洲市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1495",
+    "name": "湘潭市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1499",
+    "name": "韶山市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1501",
+    "name": "衡阳市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1511",
+    "name": "邵阳市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1522",
+    "name": "岳阳市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1530",
+    "name": "常德市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1540",
+    "name": "张家界市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1544",
+    "name": "郴州市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1555",
+    "name": "益阳市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1560",
+    "name": "永州市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1574",
+    "name": "怀化市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1586",
+    "name": "娄底市",
+    "superId": "18"
+  },
+  {
+    "ownId": "1592",
+    "name": "湘西州",
+    "superId": "18"
+  },
+  {
+    "ownId": "1601",
+    "name": "广州市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1607",
+    "name": "深圳市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1609",
+    "name": "珠海市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1611",
+    "name": "汕头市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1617",
+    "name": "韶关市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1627",
+    "name": "河源市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1634",
+    "name": "梅州市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1643",
+    "name": "惠州市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1650",
+    "name": "汕尾市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1655",
+    "name": "东莞市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1657",
+    "name": "中山市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1659",
+    "name": "江门市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1666",
+    "name": "佛山市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1672",
+    "name": "阳江市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1677",
+    "name": "湛江市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1684",
+    "name": "茂名市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1690",
+    "name": "肇庆市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1698",
+    "name": "云浮市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1704",
+    "name": "清远市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1705",
+    "name": "潮州市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1709",
+    "name": "揭阳市",
+    "superId": "19"
+  },
+  {
+    "ownId": "1715",
+    "name": "南宁市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1720",
+    "name": "柳州市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1726",
+    "name": "桂林市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1740",
+    "name": "梧州市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1746",
+    "name": "北海市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1749",
+    "name": "防城港市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1753",
+    "name": "钦州市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1757",
+    "name": "贵港市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1761",
+    "name": "玉林市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1792",
+    "name": "贺州市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1806",
+    "name": "百色市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1818",
+    "name": "河池市",
+    "superId": "20"
+  },
+  {
+    "ownId": "1827",
+    "name": "南昌市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1832",
+    "name": "景德镇市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1836",
+    "name": "萍乡市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1842",
+    "name": "新余市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1845",
+    "name": "九江市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1857",
+    "name": "鹰潭市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1861",
+    "name": "上饶市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1874",
+    "name": "宜春市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1885",
+    "name": "抚州市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1898",
+    "name": "吉安市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1911",
+    "name": "赣州市",
+    "superId": "21"
+  },
+  {
+    "ownId": "1930",
+    "name": "成都市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1946",
+    "name": "自贡市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1950",
+    "name": "攀枝花市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1954",
+    "name": "泸州市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1960",
+    "name": "绵阳市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1962",
+    "name": "德阳市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1977",
+    "name": "广元市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1983",
+    "name": "遂宁市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1988",
+    "name": "内江市",
+    "superId": "22"
+  },
+  {
+    "ownId": "1993",
+    "name": "乐山市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2005",
+    "name": "宜宾市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2016",
+    "name": "广安市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2022",
+    "name": "南充市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2033",
+    "name": "达州市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2042",
+    "name": "巴中市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2047",
+    "name": "雅安市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2058",
+    "name": "眉山市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2065",
+    "name": "资阳市",
+    "superId": "22"
+  },
+  {
+    "ownId": "2070",
+    "name": "阿坝州",
+    "superId": "22"
+  },
+  {
+    "ownId": "2084",
+    "name": "甘孜州",
+    "superId": "22"
+  },
+  {
+    "ownId": "2103",
+    "name": "凉山州",
+    "superId": "22"
+  },
+  {
+    "ownId": "2121",
+    "name": "海口市",
+    "superId": "23"
+  },
+  {
+    "ownId": "2144",
+    "name": "贵阳市",
+    "superId": "24"
+  },
+  {
+    "ownId": "2150",
+    "name": "六盘水市",
+    "superId": "24"
+  },
+  {
+    "ownId": "2155",
+    "name": "遵义市",
+    "superId": "24"
+  },
+  {
+    "ownId": "2169",
+    "name": "铜仁市",
+    "superId": "24"
+  },
+  {
+    "ownId": "2180",
+    "name": "毕节市",
+    "superId": "24"
+  },
+  {
+    "ownId": "2189",
+    "name": "安顺市",
+    "superId": "24"
+  },
+  {
+    "ownId": "2196",
+    "name": "黔西南州",
+    "superId": "24"
+  },
+  {
+    "ownId": "2205",
+    "name": "黔东南州",
+    "superId": "24"
+  },
+  {
+    "ownId": "2222",
+    "name": "黔南州",
+    "superId": "24"
+  },
+  {
+    "ownId": "2235",
+    "name": "昆明市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2247",
+    "name": "曲靖市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2258",
+    "name": "玉溪市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2270",
+    "name": "昭通市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2281",
+    "name": "普洱市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2291",
+    "name": "临沧市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2298",
+    "name": "保山市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2304",
+    "name": "丽江市",
+    "superId": "25"
+  },
+  {
+    "ownId": "2309",
+    "name": "文山州",
+    "superId": "25"
+  },
+  {
+    "ownId": "2318",
+    "name": "红河州",
+    "superId": "25"
+  },
+  {
+    "ownId": "2332",
+    "name": "西双版纳州",
+    "superId": "25"
+  },
+  {
+    "ownId": "2336",
+    "name": "楚雄州",
+    "superId": "25"
+  },
+  {
+    "ownId": "2347",
+    "name": "大理州",
+    "superId": "25"
+  },
+  {
+    "ownId": "2360",
+    "name": "德宏州",
+    "superId": "25"
+  },
+  {
+    "ownId": "2366",
+    "name": "怒江州",
+    "superId": "25"
+  },
+  {
+    "ownId": "2376",
+    "name": "西安市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2386",
+    "name": "铜川市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2390",
+    "name": "宝鸡市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2402",
+    "name": "咸阳市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2416",
+    "name": "渭南市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2428",
+    "name": "延安市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2442",
+    "name": "汉中市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2454",
+    "name": "榆林市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2468",
+    "name": "商洛市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2476",
+    "name": "安康市",
+    "superId": "27"
+  },
+  {
+    "ownId": "2487",
+    "name": "兰州市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2492",
+    "name": "金昌市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2495",
+    "name": "白银市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2501",
+    "name": "天水市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2509",
+    "name": "嘉峪关市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2518",
+    "name": "平凉市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2525",
+    "name": "庆阳市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2534",
+    "name": "陇南市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2544",
+    "name": "武威市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2549",
+    "name": "张掖市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2556",
+    "name": "酒泉市",
+    "superId": "28"
+  },
+  {
+    "ownId": "2564",
+    "name": "甘南州",
+    "superId": "28"
+  },
+  {
+    "ownId": "2573",
+    "name": "临夏州",
+    "superId": "28"
+  },
+  {
+    "ownId": "2580",
+    "name": "西宁市",
+    "superId": "29"
+  },
+  {
+    "ownId": "2585",
+    "name": "海东地区",
+    "superId": "29"
+  },
+  {
+    "ownId": "2592",
+    "name": "海北州",
+    "superId": "29"
+  },
+  {
+    "ownId": "2597",
+    "name": "黄南州",
+    "superId": "29"
+  },
+  {
+    "ownId": "2603",
+    "name": "海南州",
+    "superId": "29"
+  },
+  {
+    "ownId": "2605",
+    "name": "果洛州",
+    "superId": "29"
+  },
+  {
+    "ownId": "2612",
+    "name": "玉树州",
+    "superId": "29"
+  },
+  {
+    "ownId": "2620",
+    "name": "海西州",
+    "superId": "29"
+  },
+  {
+    "ownId": "2628",
+    "name": "银川市",
+    "superId": "30"
+  },
+  {
+    "ownId": "2632",
+    "name": "石嘴山市",
+    "superId": "30"
+  },
+  {
+    "ownId": "2637",
+    "name": "吴忠市",
+    "superId": "30"
+  },
+  {
+    "ownId": "2644",
+    "name": "固原市",
+    "superId": "30"
+  },
+  {
+    "ownId": "2652",
+    "name": "乌鲁木齐市",
+    "superId": "31"
+  },
+  {
+    "ownId": "2654",
+    "name": "克拉玛依市",
+    "superId": "31"
+  },
+  {
+    "ownId": "2656",
+    "name": "石河子市",
+    "superId": "31"
+  },
+  {
+    "ownId": "2658",
+    "name": "吐鲁番地区",
+    "superId": "31"
+  },
+  {
+    "ownId": "2662",
+    "name": "哈密地区",
+    "superId": "31"
+  },
+  {
+    "ownId": "2666",
+    "name": "和田地区",
+    "superId": "31"
+  },
+  {
+    "ownId": "2675",
+    "name": "阿克苏地区",
+    "superId": "31"
+  },
+  {
+    "ownId": "2686",
+    "name": "喀什地区",
+    "superId": "31"
+  },
+  {
+    "ownId": "2699",
+    "name": "克孜勒苏州",
+    "superId": "31"
+  },
+  {
+    "ownId": "2704",
+    "name": "巴音郭楞州",
+    "superId": "31"
+  },
+  {
+    "ownId": "2714",
+    "name": "昌吉州",
+    "superId": "31"
+  },
+  {
+    "ownId": "2723",
+    "name": "博尔塔拉州",
+    "superId": "31"
+  },
+  {
+    "ownId": "2727",
+    "name": "伊犁州",
+    "superId": "31"
+  },
+  {
+    "ownId": "2736",
+    "name": "塔城地区",
+    "superId": "31"
+  },
+  {
+    "ownId": "2744",
+    "name": "阿勒泰地区",
+    "superId": "31"
+  },
+  {
+    "ownId": "2754",
+    "name": "香港特别行政区",
+    "superId": "42"
+  },
+  {
+    "ownId": "2768",
+    "name": "台湾",
+    "superId": "32"
+  },
+  {
+    "ownId": "2770",
+    "name": "澳门市",
+    "superId": "43"
+  },
+  {
+    "ownId": "2780",
+    "name": "济源市",
+    "superId": "7"
+  },
+  {
+    "ownId": "2900",
+    "name": "济宁市",
+    "superId": "13"
+  },
+  {
+    "ownId": "2922",
+    "name": "潜江市",
+    "superId": "17"
+  },
+  {
+    "ownId": "2951",
+    "name": "拉萨市",
+    "superId": "26"
+  },
+  {
+    "ownId": "2971",
+    "name": "宣城市",
+    "superId": "14"
+  },
+  {
+    "ownId": "2980",
+    "name": "天门市",
+    "superId": "17"
+  },
+  {
+    "ownId": "2983",
+    "name": "仙桃市",
+    "superId": "17"
+  },
+  {
+    "ownId": "2992",
+    "name": "辽源市",
+    "superId": "9"
+  },
+  {
+    "ownId": "3034",
+    "name": "儋州市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3044",
+    "name": "来宾市",
+    "superId": "20"
+  },
+  {
+    "ownId": "3071",
+    "name": "中卫市",
+    "superId": "30"
+  },
+  {
+    "ownId": "3074",
+    "name": "长治市",
+    "superId": "6"
+  },
+  {
+    "ownId": "3080",
+    "name": "定西市",
+    "superId": "28"
+  },
+  {
+    "ownId": "3107",
+    "name": "那曲地区",
+    "superId": "26"
+  },
+  {
+    "ownId": "3115",
+    "name": "琼海市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3129",
+    "name": "山南地区",
+    "superId": "26"
+  },
+  {
+    "ownId": "3137",
+    "name": "万宁市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3138",
+    "name": "昌都地区",
+    "superId": "26"
+  },
+  {
+    "ownId": "3144",
+    "name": "日喀则地区",
+    "superId": "26"
+  },
+  {
+    "ownId": "3154",
+    "name": "神农架林区",
+    "superId": "17"
+  },
+  {
+    "ownId": "3168",
+    "name": "崇左市",
+    "superId": "20"
+  },
+  {
+    "ownId": "3173",
+    "name": "东方市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3690",
+    "name": "三亚市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3698",
+    "name": "文昌市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3699",
+    "name": "五指山市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3701",
+    "name": "临高县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3702",
+    "name": "澄迈县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3703",
+    "name": "定安县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3704",
+    "name": "屯昌县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3705",
+    "name": "昌江县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3706",
+    "name": "白沙县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3707",
+    "name": "琼中县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3708",
+    "name": "陵水县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3709",
+    "name": "保亭县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3710",
+    "name": "乐东县",
+    "superId": "23"
+  },
+  {
+    "ownId": "3711",
+    "name": "三沙市",
+    "superId": "23"
+  },
+  {
+    "ownId": "3970",
+    "name": "阿里地区",
+    "superId": "26"
+  },
+  {
+    "ownId": "3971",
+    "name": "林芝地区",
+    "superId": "26"
+  },
+  {
+    "ownId": "4108",
+    "name": "迪庆州",
+    "superId": "25"
+  },
+  {
+    "ownId": "4110",
+    "name": "五家渠市",
+    "superId": "31"
+  },
+  {
+    "ownId": "6858",
+    "name": "铁岭市",
+    "superId": "8"
+  },
+  {
+    "ownId": "15945",
+    "name": "阿拉尔市",
+    "superId": "31"
+  },
+  {
+    "ownId": "15946",
+    "name": "图木舒克市",
+    "superId": "31"
+  }
+]
