@@ -10,6 +10,8 @@ import os.path
 import os
 import re
 
+#批量改文件：for i in *; do mv $i $i.mp3; done;
+
 # 获取当前目录
 # cwd = os.getcwd()
 # dir_path = os.path.dirname(os.path.realpath(__file__))
