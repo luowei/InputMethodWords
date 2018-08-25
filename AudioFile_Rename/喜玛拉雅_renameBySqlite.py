@@ -10,7 +10,14 @@ import os.path
 import os
 import re
 
-#批量改文件：for i in *; do mv $i $i.mp3; done;
+import unicodedata
+import string
+
+validFilenameChars = "-_.() %s%s" % (string.ascii_letters, string.digits)
+
+def removeDisallowedFilenameChars(filename):
+    cleanedFilename = unicodedata.normalize('NFKD', filename).encode('ASCII', 'ignore')
+    return ''.join(c for c in cleanedFilename if c in validFilenameChars)
 
 # 获取当前目录
 # cwd = os.getcwd()
@@ -60,7 +67,7 @@ def renameTingMp3(dirString, tingString):
         name = row[0]
         md5Name = row[1]
         # print(row[0])
-        namePath = dir + '/' + name + '.mp3'
+        namePath = dir + '/' + removeDisallowedFilenameChars(name) + '.mp3'
         md5Path = dir + '/' + md5Name + '.mp3'
         if os.path.exists(md5Path):
             os.rename(md5Path, namePath)
